@@ -145,7 +145,7 @@ const Navbar = () => {
 
                 {/* ✅ Admin Panel Button (Mobile) */}
                 <a
-                  href="http://localhost:5174/"
+                  href="https://doctor-appionment-app-mern-stack.vercel.app/"
                   target="_blank"
                   rel="noopener noreferrer"
                   onClick={() => setShowMenu(false)}
