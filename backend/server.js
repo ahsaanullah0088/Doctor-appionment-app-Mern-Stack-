@@ -8,13 +8,13 @@ import doctorRouter from './routes/doctorRoute.js';
 import userRouter from './routes/userRoute.js';
 // app config
 const app = express();
-const port = process.env.PORT||4000
+const port = "https://doctor-appionment-app-backend2.onrender.com"
 connectDB();
 connectCloudinary();
 
 // middleware
 app.use(express.json());
-app.use(cors("https://doctor-frontend-wheat.vercel.app/" || "https://doctor-appionment-app-mern-stack.vercel.app/" ));
+app.use(cors("https://doctor-frontend-wheat.vercel.app" || "https://doctor-appionment-app-mern-stack.vercel.app" ));
 
 
 // api end point
