@@ -46,7 +46,7 @@ const Navbar = () => {
         {/* ✅ Admin Panel Button (Desktop) */}
         <li>
           <a
-            href="http://localhost:5174/"
+            href="https://doctor-appionment-app-mern-stack.vercel.app/"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-white hover:bg-gray-100 text-gray-600 px-4 py-2 rounded-full border border-gray-500"

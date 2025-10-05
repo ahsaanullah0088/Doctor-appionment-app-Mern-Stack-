@@ -14,7 +14,7 @@ connectCloudinary();
 
 // middleware
 app.use(express.json());
-app.use(cors());
+app.use(cors("https://doctor-frontend-wheat.vercel.app/" || "https://doctor-appionment-app-mern-stack.vercel.app/" ));
 
 
 // api end point
