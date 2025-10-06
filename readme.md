@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./prep1.png" alt="Doctor App Screenshot" width="700"/>
+</p>
 🏥 Doctor Appointment Booking Web Application
 
 Tech Stack: React JS, Tailwind CSS, Node JS, Express JS, MongoDB, Stripe, JWT
