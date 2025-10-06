@@ -31,8 +31,8 @@ const Fotter = () => {
         <div>
           <p className='text-xl font-medium mb-5'>GET IN TOUCH</p>
           <ul className='flex flex-col gap-2 text-gray-600'>
-            <li>+92-3204335746</li>
-            <li>abdulrehmantech.me@gmail.com</li>
+            <li>+92-3257175094</li>
+            <li>ahsaanu70@gmail.com</li>
           </ul>
         </div>
 
@@ -41,7 +41,7 @@ const Fotter = () => {
       {/* Copyright section */}
       <div className='text-center text-gray-600 text-sm'>
         <hr className='mb-4' />
-        <p className='py-5 text-sm text-center'>© 2025 Abdul Rehman Tech. All rights reserved.</p>
+        <p className='py-5 text-sm text-center'>© 2025 Ahsaan Ullah. All rights reserved.</p>
       </div>
     </div>
   )
